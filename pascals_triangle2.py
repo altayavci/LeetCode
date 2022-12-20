@@ -1,5 +1,5 @@
 import time 
-
+import numpy as np 
 class Solution:
     def getRow(self, rowIndex: int) :
 
